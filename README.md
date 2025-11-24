@@ -14,7 +14,7 @@ Steps
 
 Clone the Repository (or Download the files):
 
-git clone [your-repository-url]
+git clone [https://github.com/priyanshi0602/console-tic-tac-toe-java.git]
 cd console-tic-tac-toe
 
 
